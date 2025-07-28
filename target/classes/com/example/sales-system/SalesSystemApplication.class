@@ -1,0 +1,19 @@
+//
+// Source code recreated from a .class file by IntelliJ IDEA
+// (powered by FernFlower decompiler)
+//
+
+package com.example.sales_system;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SalesSystemApplication {
+    public SalesSystemApplication() {
+    }
+
+    public static void main(String[] args) {
+        SpringApplication.run(SalesSystemApplication.class, args);
+    }
+}
